@@ -1,6 +1,6 @@
 /***********************************************************
  *     FileName: perror.c
- *         Desc: 打印出错的原因描述字符串
+ *         Desc: 打印出错的原因描述字符串(输出到标准错误)
  *       Author: Jie Yin
  *        Email: mumingv@163.com
  *     HomePage: https://github.com/mumingv
@@ -9,9 +9,10 @@
  *      History:
  ***********************************************************/
 
+// 语法：void perror(const char *s);
+
 #include <stdio.h>
-int main (void)
-{
+int main (void) {
     FILE *fp;
     fp = fopen("/foo/bar", "r");
     if (fp == NULL)
