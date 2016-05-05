@@ -159,6 +159,63 @@ utmpname
 crypt
 getpass
 
+第9章 数据机构函数
+bsearch
+hcreate
+hdestroy
+hsearch
+insque
+lfind
+lsearch
+qsort
+remque
+tdelete
+tfind
+tsearch
+twalk
+
+第10章 随机数函数
+drand48
+erand48
+initstate
+jrand48
+lcong48
+lrand48
+mrand48
+nrand48
+rand
+random
+seed48
+setstate
+srand
+srand48
+srandom
+
+第11章 初级I/O函数
+close
+creat
+dup
+dup2
+fcntl
+flock
+fsync
+lseek
+mkstemp
+open
+read
+sync
+write
+
+第12章 标准I/O函数
+
+
+
+
+
+
+
+
+
 
 
 
