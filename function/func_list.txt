@@ -207,6 +207,40 @@ sync
 write
 
 第12章 标准I/O函数
+clearerr
+fclose
+fdopen
+feof
+fflush
+fgetc
+fgetpos
+fgets
+fileno
+fopen
+fputc
+fputs
+fread
+freopen
+fseek
+fseeko
+fsetpos
+ftell
+ftello
+fwrite
+getc
+getchar
+gets
+mkdtemp
+mktemp
+putc
+putchar
+puts
+rewind
+setbuf
+setlinebuf
+setvbuf
+tmpfile
+ungetc
 
 
 
