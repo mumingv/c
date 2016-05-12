@@ -242,11 +242,97 @@ setvbuf
 tmpfile
 ungetc
 
+第13章 进程及流程控制
+abort
+assert
+atexit
+execl
+execle
+execlp
+execv
+execve
+execvp
+exit
+_exit
+fork
+getpgid
+getpgrp
+getpid
+getpgrp
+getpid
+getppid
+getpriority
+longjmp
+nice
+on_exit
+ptrace
+setjmp
+setpgid
+setpgrp
+setpriority
+siglongjmp
+sigsetjmp
+system
+vfork
+wait
+waitpid
 
+第14章 格式化输入输出函数
+fprintf
+fscanf
+printf
+scanf
+snprintf
+sprintf
+sscanf
+vfprintf
+vfscanf
+vprintf
+vscanf
+vsnprintf
+vsprintf
+vsscanf
 
+第15章 文件及目录函数
+access
+alphasort
+chdir
+chmod
+chown
+chroot
+closedir
+fchdir
+fchmod
+fchown
+fstat
+ftruncate
+ftw
+get_current_dir_name
+getcwd
+getwd
+lchown
+link
+lstat
+nftw
+opendir
+readdir
+readlink
+realpath
+remove
+rename
+rewinddir
+scandir
+seekdir
+stat
+symlink
+telldir
+truncate
+umask
+unlink
+utime
+utimes
 
-
-
+第16章 信号函数
 
 
 
