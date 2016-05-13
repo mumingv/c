@@ -333,6 +333,74 @@ utime
 utimes
 
 第16章 信号函数
+alarm
+kill
+pause
+psignal
+raise
+sigaction
+sigaddset
+sigdelset
+sigemptyset
+sigfillset
+sigismember
+signal
+sigpause
+sigpending
+sigprocmask
+sigsuspend
+sleep
+strsignal
+
+第17章 错误处理函数
+ferror
+perror
+strerror
+
+第18章 管道相关函数
+mkfifo
+pclose
+pipe
+popen
+
+第19章 socket相关函数
+accept
+bind
+connect
+endprotoent
+endservent
+gethostbyaddr
+gethostbyname
+getprotobyname
+getprotobynumber
+getprotoent
+getservbyname
+getservbyport
+getservent
+getsockopt
+herror
+hstrerror
+htonl
+htons
+inet_addr
+inet_aton
+inet_ntoa
+listen
+ntohl
+ntohs
+recv
+recvfrom
+recvmsg
+send
+sendmsg
+sendto
+setprotoent
+setservent
+setsockopt
+shutdown
+socket
+
+第20章 进程间通信（IPC）函数
 
 
 
