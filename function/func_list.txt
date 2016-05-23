@@ -401,28 +401,49 @@ shutdown
 socket
 
 第20章 进程间通信（IPC）函数
+ftok
+msgctl
+msgget
+msgrcv
+msgsnd
+semctl
+semget
+semop
+shmat
+shmctl
+shmdt
+shmget
 
+第21章 日志函数
+closelog
+openlog
+syslog
+vsyslog
 
+第22章 环境变量函数
+getenv
+putenv
+setenv
+unsetenv
 
+第23章 正则表达式
+regcomp
+regerror
+regexec
+regfree
 
+第24章 动态函数
+dlclose
+dlerror
+dlopen
+dlsym
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+第25章 其他函数
+getopt
+getopt_long
+isatty
+pselect
+select
+sendfile
+ttyname
 
