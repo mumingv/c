@@ -1,2 +1,5 @@
+*.i
+*.s
+*.o
 a.out
 tags
